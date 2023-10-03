@@ -23,7 +23,7 @@ If we add a path directory with the ls command, which is the directory that we c
 
 Using the command with a path to a file as an argument will return the file's name. Because the computer could not find any directory, it just replaced the file name to show the programmer there was no way to go further.
 
-![Image](s3.png)
+![Image](ls3.png)
 
 cat command is to print the contents of one or more files given by the paths we use as an argument. However, without arguments, the computer will not know what to print, so it will return nothing, just like the picture I provided. 
 
