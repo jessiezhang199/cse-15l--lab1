@@ -1,7 +1,7 @@
 My week1 lab report
 This week, we learned how to clone a new file in our GitHub account using the terminal. After we clone it, the file will appear on our page immediately, and we can use some basic methods to open it. 
 The command cd is used to go with a path to a directory. However, using cd with no arguments will return to the beginning - with no directory or file. It will not change if we do not have a path to any directory or file. The first screenshot I provide is a sample of using the command cd without arguments. Because we did not tell the computer what to open, it just returned to no path.
-![Image](Screenshot 2023-10-02 144909.png)
+\ ![Image](Screenshot 2023-10-02 144909.png)
 For a simple directory, we need to know the file's name and type it after we type cd with a space. It will quickly appear on our title. The computer will follow what we tell it to do if it is a directory that could go further.
 ![Image](2.png)
 However, if we try to use it to open a file, it will return error and say that this is not a directory. An example screenshot is provided, named 3, in my repository. If there are no directories that can go farther, the computer will warn us.
